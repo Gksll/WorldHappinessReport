@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0279acfc-be92-43ca-aa69-fcf3b41805cc": {
+      "ProjectGuid": "0279acfc-be92-43ca-aa69-fcf3b41805cc",
+      "DisplayName": "Map",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
